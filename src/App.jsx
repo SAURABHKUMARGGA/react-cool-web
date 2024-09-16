@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold">
-        Hello world! <FavoriteIcon sx={{color:red[700]}}/>
+        Hello world! 2 <FavoriteIcon sx={{color:red[700]}}/>
       </h1>
     </>
   );
